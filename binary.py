@@ -7,6 +7,6 @@ def decimalToBinary(n):
             print("0", end="")
     print('\n')
 
-
+#Input to your code
 n = 29
 decimalToBinary(n)
