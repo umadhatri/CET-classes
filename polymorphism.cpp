@@ -29,7 +29,7 @@ class calculate
         }
 };
 
-int main(int argc, char const *argv[])
+int main()
 {
     calculate *cal = new calculate;
     float rad;
